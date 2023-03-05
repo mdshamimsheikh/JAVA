@@ -1,0 +1,10 @@
+char[] str = {'S','H','A','M','I'};
+String s = new String(str);
+
+String s = "Shamima";
+
+String <String_name> = "<sequence_of_string>";
+
+ String str = "Md Shamim Sheikh";
+
+String s1= "String literal"
